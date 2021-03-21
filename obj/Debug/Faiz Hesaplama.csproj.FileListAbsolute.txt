@@ -1,0 +1,9 @@
+D:\VB\Faiz Hesaplama\bin\Debug\Faiz Hesaplama.exe.config
+D:\VB\Faiz Hesaplama\bin\Debug\Faiz Hesaplama.exe
+D:\VB\Faiz Hesaplama\bin\Debug\Faiz Hesaplama.pdb
+D:\VB\Faiz Hesaplama\obj\Debug\Faiz_Hesaplama.Form1.resources
+D:\VB\Faiz Hesaplama\obj\Debug\Faiz_Hesaplama.Properties.Resources.resources
+D:\VB\Faiz Hesaplama\obj\Debug\Faiz Hesaplama.csproj.GenerateResource.cache
+D:\VB\Faiz Hesaplama\obj\Debug\Faiz Hesaplama.exe
+D:\VB\Faiz Hesaplama\obj\Debug\Faiz Hesaplama.pdb
+D:\VB\Faiz Hesaplama\obj\Debug\Faiz Hesaplama.csprojAssemblyReference.cache
